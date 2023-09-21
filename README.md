@@ -1,5 +1,5 @@
 <h1 align="center">👨🏻‍💻 Vladyslav Shuliar</h1>
-<h3 align="center">Android Engineer</h3>
+<h3 align="center">Android Developer</h3>
 
 - 🎓 I’m studying Computer Science at the **[University of Essex](https://www.essex.ac.uk/)**
 
