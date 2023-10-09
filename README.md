@@ -1,5 +1,5 @@
 <h1 align="center">👨🏻‍💻 Vladyslav Shuliar</h1>
-<h3 align="center">Android Developer</h3>
+<h3 align="center">Computer Science Student</h3>
 
 - 👨‍💻 My portfolio is available at the **[Portfolio Page](https://github.com/stars/vbshuliar/lists/portfolio)**
 
