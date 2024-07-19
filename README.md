@@ -1,7 +1,7 @@
 <h1 align="center">👨🏻‍💻 Vladyslav Shuliar</h1>
 <h3 align="center">Computer Science Student</h3>
 
-- 👨‍💻 My portfolio is available at the **[Portfolio Page](https://github.com/stars/vbshuliar/lists/portfolio)**
+- 🍎 My mobile game is available at the **[Apple of Fortune](https://play.google.com/store/apps/details?id=com.vbshuliar.apple_of_fortune)**
 
 - 🎓 I’m studying Computer Science at the **[University of Essex](https://www.essex.ac.uk/)**
 
