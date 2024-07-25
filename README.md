@@ -1,5 +1,5 @@
 <h1 align="center">👨🏻‍💻 Vladyslav Shuliar</h1>
-<h3 align="center">Computer Science Student</h3>
+<h3 align="center">Analytical Data Scientist @ Roche | Self-employed Android Developer | Computer Science Student</h3>
 
 - 🍎 My mobile game is available at the **[Apple of Fortune](https://play.google.com/store/apps/details?id=com.vbshuliar.apple_of_fortune)**
 
